@@ -13,7 +13,7 @@ Personal skills repository modeled after the structure of `mattpocock/skills`, t
 Install directly from this repository using `skills.sh`:
 
 ```bash
-npx skills add <your-github-username>/de-skills
+npx skills add DmitryEfimenko/de-skills
 ```
 
 ## Repository Structure
@@ -21,9 +21,7 @@ npx skills add <your-github-username>/de-skills
 ```text
 skills/
   engineering/
-  productivity/
   misc/
-  in-progress/
   deprecated/
 docs/
   engineering/
