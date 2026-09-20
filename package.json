@@ -1,0 +1,10 @@
+{
+  "name": "de-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Personal frequently-used AI skills repository.",
+  "license": "MIT",
+  "scripts": {
+    "check:skills": "node scripts/validate-skills.mjs"
+  }
+}
